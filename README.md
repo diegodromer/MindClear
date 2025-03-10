@@ -138,12 +138,12 @@ A estrutura do projeto foi organizada com base em boas práticas para garantir e
    ```   
    npx prisma studio
    ```
-  5.2. abra:
+
+5. Para acessar o Prisma Studio,
+   5.2. abra:
    ```   
    http://localhost:5555/
    ```
----
-
 
 ---
 
