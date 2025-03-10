@@ -136,7 +136,7 @@ O **Mind Clear** foi projetado para ser uma ferramenta poderosa e intuitiva, aju
    ```
 3. Execute o servidor:
    ```bash
-   npm run start
+   npm run start:dev
    ```
 
 ### 📱 Instalando e Executando o Frontend
@@ -151,7 +151,7 @@ O **Mind Clear** foi projetado para ser uma ferramenta poderosa e intuitiva, aju
    ```
 3. Inicie o Expo:
    ```bash
-   expo start
+   npx expo start  
    ```
 
 ---
