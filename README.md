@@ -121,6 +121,9 @@ O **Mind Clear - Frontend** é responsável por fornecer uma interface amigável
 ### Tela Home
 <img src="https://github.com/user-attachments/assets/b6e4968c-533e-4f80-be74-c208d58c2312" alt="Tela Home" width="350">
 
+### Tela de Definições
+<img src="https://github.com/user-attachments/assets/96931923-6bbe-48dc-9192-4cedcd41b6fb" alt="Tela de Definições" width="350">
+
 ---
 
 ## 📜 Licença
