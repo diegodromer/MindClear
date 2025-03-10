@@ -58,10 +58,10 @@ O **Mind Clear** foi desenvolvido com uma arquitetura moderna e bem estruturada,
 
 - **Framework e Ferramentas**: O backend foi desenvolvido utilizando **NestJS**, um framework modular que facilita a criação de APIs escaláveis e organizadas.
 - **Organização de Pastas**:
-  - **src/modules**: Cada funcionalidade do sistema (como autenticação, gerenciamento de usuários, etc.) é organizada em módulos separados.
-  - **src/entities**: Definições de entidades do banco de dados utilizando **Prisma ORM**.
-  - **src/controllers**: Controladores que gerenciam as requisições e respostas da API.
-  - **src/services**: Serviços que contêm a lógica de negócio.
+  - **src/users/modules**: Cada funcionalidade do sistema (como autenticação, gerenciamento de usuários, etc.) é organizada em módulos separados.
+  - **src/users/entities**: Definições de entidades do banco de dados utilizando **Prisma ORM**.
+  - **src/users/controllers**: Controladores que gerenciam as requisições e respostas da API.
+  - **src/users/services**: Serviços que contêm a lógica de negócio.
   - **src/dtos**: Objetos de transferência de dados (DTOs) para validação e manipulação de entradas.
 - **Banco de Dados**: Utilizamos **SQLite** durante o desenvolvimento e testes, pela sua simplicidade e portabilidade. Em produção, o sistema pode ser facilmente adaptado para outros bancos de dados, como PostgreSQL ou MySQL.
 
