@@ -131,7 +131,7 @@ A estrutura do projeto foi organizada com base em boas práticas para garantir e
 
 5. Para acessar a documentação interativa da API (Swagger), abra:
    ```
-   http://localhost:3000/api
+   http://[::1]:3000/docs
    ```
 
 ---
