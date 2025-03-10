@@ -133,6 +133,17 @@ A estrutura do projeto foi organizada com base em boas práticas para garantir e
    ```
    http://[::1]:3000/docs
    ```
+5. Para acessar o Prisma Studio,
+   5.1. execute:
+   ```   
+   npx prisma studio
+   ```
+  5.2. abra:
+   ```   
+   http://localhost:5555/
+   ```
+---
+
 
 ---
 
