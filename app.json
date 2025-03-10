@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Mind Clear Frontend",
+    "slug": "mind-clear-frontend",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/imgs/logo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {},
+    "plugins": ["expo-font"],
+    "android": {
+      "package": "com.diegooliveira.mindclearfrontend"
+    },
+    "splash": {
+      "image": "./assets/imgs/brain.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "dd755573-a615-4473-b8ba-4084cbd7cd7d"
+      }
+    }
+  }
+}
