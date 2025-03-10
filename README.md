@@ -126,7 +126,7 @@ A estrutura do projeto foi organizada com base em boas práticas para garantir e
 
 4. Execute o servidor:
    ```bash
-   npm run start
+   npm run start:dev
    ```
 
 5. Para acessar a documentação interativa da API (Swagger), abra:
