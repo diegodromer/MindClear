@@ -49,7 +49,7 @@ O **Mind Clear** foi desenvolvido com uma arquitetura moderna e bem estruturada,
 - **Organização de Pastas**:
   - **src/components**: Componentes reutilizáveis para a interface do usuário.
   - **src/screens**: Telas principais do aplicativo, como Login, Home e Configurações.
-  - **src/redux**: Lógica de gerenciamento de estado global utilizando **Redux Toolkit**.
+  - **src/store**: Lógica de gerenciamento de estado global utilizando **Redux Toolkit**.
   - **src/utils**: Funções auxiliares e manipulação de dados.
   - **assets/**: Recursos estáticos, como imagens e ícones.
 - **Fluxo de Dados**: O gerenciamento de estado global é feito com **Redux Toolkit**, garantindo que os dados sejam compartilhados de forma eficiente entre os componentes. As requisições ao backend são feitas utilizando **Axios**.
