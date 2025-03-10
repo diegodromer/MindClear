@@ -25,7 +25,6 @@ Bem-vindo ao **Mind Clear**, um aplicativo inovador focado em ajudar usuários n
   - [Tela de Definições](#tela-de-definições)
 - [👥 Usuários de Teste e Visualização de Dados](#-usuários-de-teste-e-visualização-de-dados)
 - [🤔 Decisões Técnicas](#-decisões-técnicas)
-- [🤝 Contribuição](#-contribuição)
 - [📜 Licença](#-licença)
 
 ---
@@ -160,20 +159,16 @@ O **Mind Clear** foi projetado para ser uma ferramenta poderosa e intuitiva, aju
 ## 🖼️ Telas do Aplicativo
 
 ### Tela Inicial
-[Tela inicial](https://github.com/user-attachments/assets/a5b0c90f-ae37-42ce-ac4e-873d159a4317)
-
+<img src="https://github.com/user-attachments/assets/a5b0c90f-ae37-42ce-ac4e-873d159a4317" alt="Tela inicial" width="350">
 
 ### Tela de Login
-![Login](https://github.com/user-attachments/assets/c60f9944-b9d4-49e4-b4f3-94b5c87427c4)
-
+<img src="https://github.com/user-attachments/assets/c60f9944-b9d4-49e4-b4f3-94b5c87427c4" alt="Tela de Login" width="350">
 
 ### Tela Home
-![Home](https://github.com/user-attachments/assets/b6e4968c-533e-4f80-be74-c208d58c2312)
-
+<img src="https://github.com/user-attachments/assets/b6e4968c-533e-4f80-be74-c208d58c2312" alt="Tela Home" width="350">
 
 ### Tela de Definições
-![Definições](https://github.com/user-attachments/assets/96931923-6bbe-48dc-9192-4cedcd41b6fb)
-
+<img src="https://github.com/user-attachments/assets/96931923-6bbe-48dc-9192-4cedcd41b6fb" alt="Tela de Definições" width="350">
 
 ---
 
