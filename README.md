@@ -105,7 +105,7 @@ O **Mind Clear - Frontend** é responsável por fornecer uma interface amigável
 
 2. Inicie o Expo:
    ```bash
-   expo start
+   npx expo start
    ```
 
 ---
